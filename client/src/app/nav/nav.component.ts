@@ -4,10 +4,11 @@ import { AccountService } from '../_services/account.service';
 @Component({
   selector: 'app-nav',
   templateUrl: './nav.component.html',
-  styleUrl: './nav.component.css'
+  styleUrls: ['./nav.component.css']
 })
+
 export class NavComponent implements OnInit {
-  model: any = {}
+  model: any = {};
   loggedIn = false;
 
   constructor(private accountService: AccountService) { }
@@ -15,7 +16,7 @@ export class NavComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  login(){
+  login() {
     this.accountService.login(this.model).subscribe({
       next: response => {
         console.log(response);
@@ -25,7 +26,7 @@ export class NavComponent implements OnInit {
     })
   }
 
-  logout(){
-    this.loggedIn = false
+  logout() {
+    this.loggedIn = false;
   }
 }
