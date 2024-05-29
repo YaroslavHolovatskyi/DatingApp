@@ -122,3 +122,11 @@ C:\Users\jaros\Documents\GitHub\DatingApp\DatingApp\api\obj\Debug\net8.0\refint\
 C:\Users\jaros\Documents\GitHub\DatingApp\DatingApp\api\obj\Debug\net8.0\API.pdb
 C:\Users\jaros\Documents\GitHub\DatingApp\DatingApp\api\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\jaros\Documents\GitHub\DatingApp\DatingApp\api\obj\Debug\net8.0\ref\API.dll
+C:\Users\jaros\Documents\GitHub\DatingApp\DatingApp\api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jaros\Documents\GitHub\DatingApp\DatingApp\api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jaros\Documents\GitHub\DatingApp\DatingApp\api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jaros\Documents\GitHub\DatingApp\DatingApp\api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jaros\Documents\GitHub\DatingApp\DatingApp\api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jaros\Documents\GitHub\DatingApp\DatingApp\api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jaros\Documents\GitHub\DatingApp\DatingApp\api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jaros\Documents\GitHub\DatingApp\DatingApp\api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
